@@ -1,0 +1,8 @@
+tqdm
+psutil
+plotly
+kaleido
+imageio
+dateparser
+yfinance
+vectorbt
